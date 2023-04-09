@@ -9,6 +9,8 @@ google-api-python-client = "*"
 requests = "*"
 python-dotenv = "*"
 psycopg2-binary = "*"
+asgiref = "==3.5.0"
+cachetools = "==5.0.0"
 
 [dev-packages]
 
