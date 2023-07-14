@@ -129,4 +129,4 @@ margo.py
 !googleapi-key.json
 #Folder for downloaded files from google drive
 !Downloads
-Pipfile.lock
+Pipfile.loc.DC_Store
